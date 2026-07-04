@@ -27,7 +27,7 @@ Un hospital registra informacion de sus pacientes:
 - Determinar la cardinalidad
 - Determinar la participación de cada entidad
 
-![Ejercico1](../img/ER/)
+![Ejercico1](../img/1001562397.jpg)
 
 ## Ejercicio 2.
 Una universidad administra profesores y cursos 
@@ -51,7 +51,7 @@ Una universidad administra profesores y cursos
 4. Todo curso debe estar asignado a un profesor
 
 --- 
-![Ejercico2](../img/ER/Ejercicio%202de%20bd%20.drawio.png)
+![Ejercico2](../img/1001562395.jpg)
 
 ## Ejercicio 3.
 
@@ -81,7 +81,7 @@ Una escuela administra alumnos y materias
     
 Nota: a la relacion nombrarla **INSCRIBE**
 
-![Ejercico2](../img/ER/Ejercicio%203%20Bd.png   )
+![Ejercico2](../img/1001562393.jpg)
 
 
 
@@ -114,7 +114,7 @@ Una empresa dedicada a las ventas a por el mayor necesita registrar lo siguiente
 8. El detalle del pedido no existe sin producto
 9. El detalle almacena la cantidad vendida y el precio de venta
 
-![Ejercico2]()
+![Ejercico4](../img/)
 
 
 ## Ejercicio 5
