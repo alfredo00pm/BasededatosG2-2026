@@ -114,7 +114,7 @@ Una empresa dedicada a las ventas a por el mayor necesita registrar lo siguiente
 8. El detalle del pedido no existe sin producto
 9. El detalle almacena la cantidad vendida y el precio de venta
 
-![Ejercico4](../img/)
+![Ejercico4](../img/ER_diagrama_4.png)
 
 
 ## Ejercicio 5
@@ -180,4 +180,4 @@ For each dependent, we store:
 - Birth date
 - Relationship to the employee
 
-![Ejercico5](../img/ER/bd.drawio.png)
+![Ejercico5](../img/ER_diagrama_5.png)
