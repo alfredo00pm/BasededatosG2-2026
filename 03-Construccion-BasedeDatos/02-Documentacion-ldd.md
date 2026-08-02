@@ -1,3 +1,22 @@
-# construccion de la base de datos en sql server mysql o mariadb y postgres
+# Construcción de base de datos en SQL, MySql o MariaDB y Postgres
 
-## sqlserver
+---
+
+## SQL SERVER
+```sql
+CREATE 
+ALTER 
+DROP
+``` 
+
+### ALTER TABLE 
+
+permite modificar una tabla existete 
+
+Puede:
+
+- Agregar columnas
+- Eliminar columnas
+- Modificar columnas
+- Agregar restricciones
+- Eliminar restricciones 
